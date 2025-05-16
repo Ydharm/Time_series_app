@@ -33,6 +33,22 @@ This application enables users to analyze historical stock data and predict futu
 - 🧑‍💻 **User-Friendly Interface** with sidebar navigation
 
 ---
+---
+
+## 🖼️ Screenshots
+
+### 📌 Stock Analysis Page
+![Stock Analysis](images/demo_1.png)
+
+### 📌 Candlestick Chart View
+![Candlestick Chart](images/demo_2.png)
+
+### 📌 Trading Volume Insights
+![Volume Analysis](images/demo_3.png)
+
+### 📌 Price Prediction using Linear Regression
+![Prediction](images/demo_4.png)
+
 
 ## 🛠️ Installation
 
